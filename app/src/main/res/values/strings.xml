@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_W</string>
+    <string name="equation_a_b">Equation a-b</string>
+    <string name="result">Result</string>
+</resources>
